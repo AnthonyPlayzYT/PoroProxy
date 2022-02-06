@@ -22,8 +22,6 @@ client.on("ready", () => {
 
 
 
-// YOUR CODE ABOVE HERE
-
 client.login("") // Type your bot token here.
 
 
